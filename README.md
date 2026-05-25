@@ -1,2 +1,2 @@
-# uptti
+# uptti kanpur
 uptti cse app
